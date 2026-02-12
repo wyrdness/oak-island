@@ -1,0 +1,546 @@
+{
+  "category": "HISTORICAL_MYSTERY",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/oak-island",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "oak-island",
+    "name": "Oak Island Money Pit",
+    "aliases": [
+      {
+        "name": "Oak Island Mystery",
+        "region": "Nova Scotia, Canada"
+      },
+      {
+        "name": "Money Pit",
+        "region": "Oak Island, Nova Scotia"
+      },
+      {
+        "name": "Oak Island Treasure",
+        "region": "Mahone Bay, Nova Scotia"
+      }
+    ],
+    "category": "HISTORICAL_MYSTERY",
+    "subcategory": "Treasure Legend",
+    "tags": [
+      "treasure-hunting",
+      "archaeology",
+      "maritime-history",
+      "pirates",
+      "conspiracy-theories",
+      "engineering",
+      "hoax",
+      "nova-scotia",
+      "canada"
+    ],
+    "status": "disputed",
+    "description": {
+      "summary": "A small island in Mahone Bay, Nova Scotia, alleged to contain buried treasure. Over 200 years of excavation have yielded no treasure, with most historians considering the legend a combination of natural geological features and myth perpetuated by treasure seekers.",
+      "full": "Oak Island is a 140-acre island in Mahone Bay, Nova Scotia, Canada, that has been the subject of treasure hunting expeditions since 1795. The legend centers on the 'Money Pit,' an alleged shaft discovered with supposed evidence of elaborate engineering including wooden platforms, flood tunnels, and booby traps. Despite over two centuries of digging and millions of dollars spent, no treasure has ever been found. Claims about what might be buried range from pirate treasure to Knights Templar artifacts, Shakespeare manuscripts, and Marie Antoinette's jewels. Modern geologists and historians largely attribute the features to natural sinkholes and glacial activity, viewing the legend as a cautionary tale of confirmation bias and investment fallacy. The History Channel series 'The Curse of Oak Island' (2014-present) has revived popular interest while perpetuating unsubstantiated claims."
+    },
+    "etymology": {
+      "origin": "Named for the red oak trees that once grew on the island. 'Money Pit' refers to both the alleged treasure and the enormous sums spent trying to find it.",
+      "meaning": "The term 'Money Pit' is a double entendre: the pit where money is supposedly buried, and the pit into which money is endlessly poured.",
+      "first_use": "Money Pit terminology appears in 19th century accounts"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "HISTORICAL_MYSTERY",
+      "type": "Treasure Legend",
+      "subtype": "Maritime/Colonial",
+      "variant": "North American"
+    },
+    "related_phenomena": [
+      {
+        "id": "roanoke-colony",
+        "name": "Roanoke Colony",
+        "relationship": "similar",
+        "description": "Another enduring North American historical mystery"
+      },
+      {
+        "id": "bermuda-triangle",
+        "name": "Bermuda Triangle",
+        "relationship": "thematic",
+        "description": "Maritime mystery with similar media attention"
+      },
+      {
+        "id": "knights-templar",
+        "name": "Knights Templar",
+        "relationship": "claimed_connection",
+        "description": "Frequently cited in Oak Island theories despite lack of evidence"
+      }
+    ]
+  },
+
+  "location": {
+    "island": "Oak Island",
+    "body_of_water": "Mahone Bay",
+    "region": "Lunenburg County",
+    "province": "Nova Scotia",
+    "country": "Canada",
+    "coordinates": {
+      "latitude": 44.5142,
+      "longitude": -64.2889,
+      "precision": "exact"
+    },
+    "area": {
+      "value": 140,
+      "unit": "acres"
+    },
+    "accessibility": "Privately owned, restricted access",
+    "notable_features": [
+      "Money Pit location",
+      "Smith's Cove",
+      "Swamp area",
+      "Numerous excavation sites",
+      "Modern infrastructure from TV production"
+    ]
+  },
+
+  "characteristics": {
+    "alleged_features": {
+      "money_pit": {
+        "description": "Original shaft allegedly discovered in 1795, claimed to contain wooden platforms every 10 feet",
+        "depth_claimed": "Over 200 feet",
+        "status": "Original pit location uncertain, repeatedly collapsed and re-excavated"
+      },
+      "flood_tunnels": {
+        "description": "Alleged sophisticated system to flood the pit with seawater when disturbed",
+        "claimed_origin": "Smith's Cove and South Shore Cove",
+        "status": "No conclusive evidence of artificial construction; likely natural fissures"
+      },
+      "wooden_platforms": {
+        "description": "Platforms supposedly found every 10 feet in original 1795-1803 excavation",
+        "status": "Only documented in later second-hand accounts, no contemporary evidence"
+      },
+      "inscribed_stone": {
+        "description": "Stone allegedly found at 90 feet with coded inscription",
+        "claimed_translation": "Forty feet below, two million pounds lie buried",
+        "status": "Stone disappeared, translation disputed, likely fabricated for publicity"
+      }
+    },
+    "geological_explanations": {
+      "karst_topography": "Limestone bedrock with natural underground voids and channels",
+      "sinkholes": "Depression features common in karst environments, naturally collapse over time",
+      "glacial_erratics": "Rocks and boulders deposited by glaciers, can appear arranged",
+      "natural_voids": "Caves and cavities form naturally in soluble bedrock",
+      "tidal_flooding": "Island's proximity to ocean causes natural seawater infiltration at depth"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "earliest_claims": "Story allegedly begins in 1795 when teenager Daniel McGinnis discovered a circular depression",
+      "documentation": "No contemporary accounts exist from 1795; earliest written records from 1850s",
+      "reliability": "Oral tradition gap of 50+ years raises significant credibility questions"
+    },
+    "timeline": [
+      {
+        "date": "1795",
+        "event": "Alleged discovery of Money Pit",
+        "significance": "Daniel McGinnis, John Smith, and Anthony Vaughan supposedly find depression and begin digging",
+        "source": "Oral tradition, first documented 1863",
+        "credibility": "low"
+      },
+      {
+        "date": "1804",
+        "event": "Onslow Company excavation",
+        "significance": "First organized excavation attempt, reportedly reached 90 feet before flooding",
+        "source": "Later accounts, no contemporary documentation",
+        "credibility": "low"
+      },
+      {
+        "date": "1849",
+        "event": "Truro Company formed",
+        "significance": "First well-documented excavation company, used core drilling",
+        "source": "Company records",
+        "credibility": "medium"
+      },
+      {
+        "date": "1861",
+        "event": "Oak Island Association",
+        "significance": "Large-scale excavation, workman killed by boiler explosion",
+        "source": "Contemporary newspaper accounts",
+        "credibility": "high"
+      },
+      {
+        "date": "1909",
+        "event": "Franklin Roosevelt involvement",
+        "significance": "Young FDR was part of Old Gold Salvage Company expedition, maintained lifelong interest",
+        "source": "Roosevelt correspondence",
+        "credibility": "high"
+      },
+      {
+        "date": "1965",
+        "event": "Robert Dunfield excavation",
+        "significance": "Massive dig using heavy machinery, found nothing, damaged much of the original site",
+        "source": "Documented excavation records",
+        "credibility": "high"
+      },
+      {
+        "date": "1971",
+        "event": "Triton Alliance Ltd.",
+        "significance": "Dan Blankenship and David Tobias began decades-long excavation campaign",
+        "source": "Company records, media coverage",
+        "credibility": "high"
+      },
+      {
+        "date": "2006",
+        "event": "Lagina brothers purchase stake",
+        "significance": "Rick and Marty Lagina acquire majority interest in Oak Island Tours Inc.",
+        "source": "Property records",
+        "credibility": "high"
+      },
+      {
+        "date": "2014-01-05",
+        "event": "'The Curse of Oak Island' premieres",
+        "significance": "History Channel series begins, massively increases public interest",
+        "source": "Television broadcast records",
+        "credibility": "high"
+      },
+      {
+        "date": "2023",
+        "event": "Season 11 continues excavation",
+        "significance": "Over 200 episodes produced, still no treasure found",
+        "source": "Television broadcast",
+        "credibility": "high"
+      }
+    ],
+    "modern_era": "Oak Island remains privately owned with ongoing excavation funded by television production. Despite advanced technology including sonar, ground-penetrating radar, and extensive drilling, no treasure has been located. The site has become a tourism attraction and cautionary tale about treasure hunting."
+  },
+
+  "treasure_claims": {
+    "pirate_treasure": {
+      "description": "Captain Kidd or other pirates allegedly buried plunder",
+      "evidence": "None; Kidd's treasure locations well-documented elsewhere",
+      "credibility": "very_low",
+      "notes": "Kidd was tried and executed in 1701; his treasure locations known from trial records"
+    },
+    "knights_templar": {
+      "description": "Templar treasure smuggled to New World after 1307 dissolution",
+      "evidence": "None; no historical evidence Templars reached North America",
+      "credibility": "very_low",
+      "notes": "Requires accepting numerous unsubstantiated claims about pre-Columbian contact"
+    },
+    "shakespeare_manuscripts": {
+      "description": "Original manuscripts of Shakespeare's works allegedly buried by Francis Bacon",
+      "evidence": "None; based on discredited Bacon-Shakespeare authorship theory",
+      "credibility": "very_low",
+      "notes": "No credible scholars support Bacon authorship or this scenario"
+    },
+    "marie_antoinette_jewels": {
+      "description": "French crown jewels smuggled to Nova Scotia during French Revolution",
+      "evidence": "None; French crown jewels' fates well-documented",
+      "credibility": "very_low",
+      "notes": "Timing and logistics make this scenario impossible"
+    },
+    "spanish_colonial_treasure": {
+      "description": "Spanish shipwreck treasure reburied on island",
+      "evidence": "No Spanish shipwrecks documented in area",
+      "credibility": "very_low",
+      "notes": "Mahone Bay not on Spanish shipping routes"
+    },
+    "british_military_payroll": {
+      "description": "British garrison payroll hidden during American Revolution",
+      "evidence": "No missing payroll records, timing doesn't match alleged construction",
+      "credibility": "low",
+      "notes": "Most plausible scenario but still lacks supporting evidence"
+    }
+  },
+
+  "evidence": {
+    "artifacts_found": [
+      {
+        "item": "Coconut fiber",
+        "date": "Various",
+        "significance": "Claimed as evidence of human activity; coconuts not native to Nova Scotia",
+        "analysis": "Coconut fiber commonly used as ship packing material, found throughout maritime regions",
+        "credibility": "Proves historical maritime activity, not treasure"
+      },
+      {
+        "item": "Metal fragments",
+        "date": "Various",
+        "significance": "Various metal objects including coins, nails, pins",
+        "analysis": "Most date to 19th-20th century excavations; origin unclear",
+        "credibility": "Contamination from 200+ years of digging likely"
+      },
+      {
+        "item": "Wooden timbers",
+        "date": "Various",
+        "significance": "Preserved wood found at various depths",
+        "analysis": "Carbon dating shows various ages; many from known excavation activities",
+        "credibility": "Natural preservation in anaerobic conditions common; human origin uncertain"
+      },
+      {
+        "item": "Stone roadway",
+        "date": "1900s discovery",
+        "significance": "Claimed as evidence of large-scale engineering project",
+        "analysis": "Geological surveys show natural rock formation, glacial deposit",
+        "credibility": "Natural geological feature"
+      },
+      {
+        "item": "Cross pendant",
+        "date": "2015 (TV show)",
+        "significance": "Claimed as Templar evidence",
+        "analysis": "Generic medieval-style jewelry, provenance uncertain, could be modern",
+        "credibility": "No verified historical significance"
+      }
+    ],
+    "missing_evidence": [
+      "No treasure ever recovered",
+      "No human remains or personal effects predating 19th century",
+      "No period tools or equipment consistent with 16th-18th century engineering",
+      "No contemporary documentation from alleged 1795 discovery",
+      "No verified inscribed stone (original lost)"
+    ]
+  },
+
+  "investigations": {
+    "major_excavations": [
+      {
+        "name": "Onslow Company",
+        "period": "1804-1805",
+        "funding": "Private investors",
+        "result": "Abandoned after pit flooded",
+        "documentation": "Poor; accounts written decades later"
+      },
+      {
+        "name": "Truro Company",
+        "period": "1849-1850",
+        "funding": "Stock subscription",
+        "result": "No treasure, introduced core drilling",
+        "documentation": "Moderate; some company records exist"
+      },
+      {
+        "name": "Oak Island Association",
+        "period": "1861-1864",
+        "funding": "Large investor group",
+        "result": "No treasure, one fatality",
+        "documentation": "Good; newspaper coverage and records"
+      },
+      {
+        "name": "Robert Dunfield",
+        "period": "1965-1966",
+        "funding": "Private",
+        "result": "No treasure, significant site damage",
+        "documentation": "Excellent; modern excavation records"
+      },
+      {
+        "name": "Triton Alliance",
+        "period": "1971-2005",
+        "funding": "Private investment consortium",
+        "result": "No treasure, extensive exploration",
+        "documentation": "Excellent; extensive documentation"
+      },
+      {
+        "name": "Oak Island Tours Inc. / Lagina Brothers",
+        "period": "2006-present",
+        "funding": "Private investment + TV production",
+        "result": "No treasure (ongoing)",
+        "documentation": "Extensive; televised and documented"
+      }
+    ],
+    "scientific_studies": [
+      {
+        "study": "Geological Survey of Canada analysis",
+        "date": "1980s",
+        "conclusion": "Natural limestone karst features explain alleged flood tunnels",
+        "source": "Government geological reports"
+      },
+      {
+        "study": "Woods Hole Oceanographic Institution",
+        "date": "1995",
+        "conclusion": "Seawater infiltration is natural process in island's geology",
+        "source": "Oceanographic research reports"
+      },
+      {
+        "study": "Multiple archaeological assessments",
+        "date": "Various",
+        "conclusion": "No evidence of pre-19th century significant human engineering",
+        "source": "Archaeological surveys"
+      }
+    ]
+  },
+
+  "theories": {
+    "treasure_theories": [
+      {
+        "name": "Pirate Treasure",
+        "credibility": "very_low",
+        "evidence": "None",
+        "counterevidence": "No pirates with sufficient treasure operated in area; pirate treasure hoards extremely rare historically"
+      },
+      {
+        "name": "Knights Templar",
+        "credibility": "very_low",
+        "evidence": "None",
+        "counterevidence": "No evidence Templars reached Americas; requires accepting fringe historical claims"
+      },
+      {
+        "name": "British Military Payroll",
+        "credibility": "low",
+        "evidence": "Plausible timing during American Revolution",
+        "counterevidence": "No missing payroll records; Halifax was secure British stronghold"
+      }
+    ],
+    "skeptical_explanations": [
+      {
+        "name": "Natural Geological Features",
+        "credibility": "high",
+        "evidence": "Karst geology, sinkholes, natural voids documented throughout region",
+        "supporting_experts": "Professional geologists, Geological Survey of Canada",
+        "notes": "Most parsimonious explanation for all observed features"
+      },
+      {
+        "name": "Confirmation Bias & Investment Fallacy",
+        "credibility": "high",
+        "evidence": "Each excavation finds 'clues' that justify continued digging",
+        "supporting_experts": "Psychologists, historians of science",
+        "notes": "Classic case of sunk cost fallacy driving continued investment"
+      },
+      {
+        "name": "Mythmaking & Embellishment",
+        "credibility": "high",
+        "evidence": "Story grew more elaborate with each retelling; 50-year oral tradition gap",
+        "supporting_experts": "Folklorists, historians",
+        "notes": "Pattern consistent with legend formation and embellishment"
+      },
+      {
+        "name": "19th Century Hoax",
+        "credibility": "medium-high",
+        "evidence": "Original story emerges during gold rush era; used to attract investors",
+        "supporting_experts": "Historians of fraud",
+        "notes": "Treasure hunt investment schemes common in 19th century"
+      }
+    ]
+  },
+
+  "cultural": {
+    "media_impact": {
+      "television": [
+        {
+          "title": "The Curse of Oak Island",
+          "network": "History Channel",
+          "period": "2014-present",
+          "seasons": 11,
+          "episodes": "200+",
+          "impact": "Massive revival of interest, tourism boom",
+          "criticism": "Accused of presenting speculation as fact, pseudoarchaeology"
+        }
+      ],
+      "books": [
+        "The Oak Island Mystery (1953) by R.V. Harris",
+        "Oak Island Gold (1978) by William Crooker",
+        "The Secret Treasure of Oak Island (1978) by D'Arcy O'Connor",
+        "Oak Island and the Search for Buried Treasure (2021) by Joann Hamilton-Barry"
+      ],
+      "documentaries": "Numerous productions before TV series"
+    },
+    "economic_impact": {
+      "tourism": "Significant boost to Mahone Bay region economy",
+      "employment": "TV production provides jobs",
+      "local_business": "Restaurants, shops capitalize on Oak Island interest",
+      "controversy": "Some locals resent commercialization, traffic, hype"
+    },
+    "folklore": {
+      "the_curse": "Legend that seven must die before treasure is found (six deaths recorded)",
+      "ghosts": "Various ghost stories associated with island",
+      "guardian_spirits": "Folklore about protective entities guarding treasure",
+      "status": "Modern folklore creation, part of mystique building"
+    }
+  },
+
+  "skeptical_consensus": {
+    "scientific_community": "Overwhelmingly views Oak Island as combination of natural features and legend",
+    "archaeological_community": "No credible archaeologists support treasure theories",
+    "geological_community": "Consensus that features are natural karst formations",
+    "historical_community": "Most historians consider it hoax or myth with no historical basis",
+    "key_points": [
+      "No contemporary documentation of 1795 discovery",
+      "All alleged evidence explainable by natural processes or later contamination",
+      "200+ years of excavation with no treasure found",
+      "Claims become more elaborate over time without new evidence",
+      "Geological explanations are simpler and better supported",
+      "Pattern matches known treasure hunt hoaxes of 19th century"
+    ]
+  },
+
+  "warnings": {
+    "financial": "Numerous investors have lost money in Oak Island ventures over 200 years",
+    "safety": "Six deaths associated with excavation activities; site dangerous",
+    "pseudoarchaeology": "Oak Island used to promote fringe historical theories without evidence",
+    "tourism": "Private property; trespassing prosecuted"
+  },
+
+  "sources": [
+    {
+      "id": "harris-1953",
+      "type": "book",
+      "title": "The Oak Island Mystery",
+      "authors": ["R.V. Harris"],
+      "publication": "Ryerson Press",
+      "date": "1953"
+    },
+    {
+      "id": "oconnor-2004",
+      "type": "book",
+      "title": "The Secret Treasure of Oak Island: The Amazing True Story of a Centuries-Old Treasure Hunt",
+      "authors": ["D'Arcy O'Connor"],
+      "publication": "The Lyons Press",
+      "date": "2004",
+      "isbn": "978-1592287147"
+    },
+    {
+      "id": "finnan-2002",
+      "type": "book",
+      "title": "Oak Island Secrets",
+      "authors": ["Mark Finnan"],
+      "publication": "Formac Publishing",
+      "date": "2002",
+      "isbn": "978-0887805851"
+    },
+    {
+      "id": "nickell-2000",
+      "type": "journal",
+      "title": "The Secrets of Oak Island",
+      "authors": ["Joe Nickell"],
+      "publication": "Skeptical Inquirer",
+      "date": "2000",
+      "volume": "24",
+      "issue": "2"
+    },
+    {
+      "id": "joltes-1993",
+      "type": "thesis",
+      "title": "Investigating the Oak Island Mystery",
+      "authors": ["Gordon Fader", "Various"],
+      "publication": "Atlantic Geoscience Society",
+      "date": "1993"
+    },
+    {
+      "id": "history-channel-2014",
+      "type": "television",
+      "title": "The Curse of Oak Island",
+      "production": "History Channel / Prometheus Entertainment",
+      "date": "2014-present"
+    }
+  ]
+}
