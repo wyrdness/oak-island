@@ -1,569 +1,241 @@
 # Oak Island Money Pit
 
-> *"The greatest treasure hunt in history... or the greatest hoax?"*
+> Oak Island is a 57-hectare (140-acre) tree-covered island in Mahone Bay, Nova Scotia, the focus of one of the longest-running treasure hunts in history. Since 1795, expeditions have excavated the so-called 'Money Pit' in search of buried treasure, with multiple deaths but no verified treasure recovered.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Excavations](https://img.shields.io/badge/excavations-200%2B%20years-orange)]()
-[![Status](https://img.shields.io/badge/status-disputed-red)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `oak-island` |
-| **Category** | HISTORICAL_MYSTERY |
-| **Classification** | Treasure Legend |
-| **First Recorded** | 1795 (claimed) / 1850s (documented) |
-| **Location** | Oak Island, Mahone Bay, Nova Scotia, Canada |
-| **Status** | Disputed / Likely Hoax |
+| **Category** | LOCATION |
+| **Subcategory** | Treasure-hunt site / historical mystery |
+| **First recorded** | 1795 |
+| **Primary range** | A single island in Mahone Bay, Nova Scotia, Canada, accessed from the village of Western Shore by a causeway constructed in 1965 |
+| **Status** | active |
 
 ---
-
-## ⚠️ Critical Context
-
-**Scientific Consensus**: The overwhelming majority of geologists, historians, and archaeologists consider Oak Island a combination of natural geological features and myth. Despite over 200 years of excavation and millions of dollars spent, no treasure has ever been found.
-
-**Key Skeptical Points**:
-- No contemporary documentation of the alleged 1795 discovery exists
-- First written accounts appear 50+ years after supposed events
-- All features explainable by natural karst geology (sinkholes, underground voids)
-- Pattern matches known 19th-century treasure hunt investment schemes
-- Claims become more elaborate over time without supporting evidence
-
----
-
 ## Overview
 
-Oak Island is a 140-acre island in Mahone Bay, Nova Scotia, Canada, that has been the subject of treasure hunting expeditions since allegedly 1795. The legend centers on the "Money Pit," a supposed shaft discovered with claimed evidence of elaborate engineering including wooden platforms, flood tunnels, and booby traps.
-
-### The Claims
-
-Treasure hunters claim:
-- Discovery of a mysterious shaft in 1795
-- Wooden platforms found every 10 feet
-- Sophisticated flood tunnel system to protect treasure
-- Inscribed stone with cryptic message
-- Buried treasure ranging from pirate gold to Templar artifacts
-
-### The Reality
-
-Historical and scientific analysis reveals:
-- **No contemporary documentation** of 1795 discovery (first written accounts from 1850s)
-- **Natural geological explanation**: Oak Island sits on limestone karst with natural sinkholes and underground channels
-- **No treasure found** despite 200+ years and millions of dollars spent
-- **Artifacts are contaminated**: 200+ years of digging makes origin of any objects uncertain
-- **Pattern of mythmaking**: Story becomes more elaborate with each retelling
-
-The "Money Pit" is likely a natural sinkhole that has been repeatedly excavated, collapsed, and re-excavated, creating a self-perpetuating legend fueled by investment fallacy and confirmation bias.
+Oak Island is one of the roughly 360 small islands in Mahone Bay on the south shore of Nova Scotia, Canada. According to the standard account, in the summer of 1795 a teenager named Daniel McGinnis discovered a circular depression in the ground beneath an old oak tree, with evidence of a block-and-tackle in the branches above. With friends John Smith and Anthony Vaughan, he began excavating and reportedly found layers of flagstones and oak log platforms at roughly 3-metre (10-foot) intervals, abandoning the dig at about 9 metres (30 feet). Subsequent expeditions — the Onslow Company (c. 1804), the Truro Company (1849), the Oak Island Association (1861) and many others — encountered repeated flooding once shafts passed about 27 metres (90 feet), allegedly caused by elaborate flood-tunnel booby-traps connected to nearby Smith's Cove. Six men have died on the island during excavations, including a worker killed in 1861 when a steam-engine boiler burst, Maynard Kaiser in 1897, and four men (Robert Restall, Robert Restall Jr., Karl Graeser and Cyril Hiltz) in 1965 from hydrogen-sulfide gas exposure. Notable purported finds include coconut fibre (anomalous for Nova Scotia), a small parchment fragment with the letters 'vi' or 'wi' (1897), and a since-lost stone slab said to bear ciphered text recovered from the pit. From 1965 the Triton Alliance (Daniel Blankenship and David Tobias) operated the major modern excavation; from 2006 onward Michigan brothers Rick and Marty Lagina acquired a controlling interest in Oak Island Tours Inc., and in 2014 the History Channel began the long-running reality series The Curse of Oak Island. Mainstream historians, including geologist Robert Dunfield's findings, archivist Joy Steele, and folklorist Richard Joltes, argue that almost all 'engineered' features can be explained by natural sinkhole geology in the local anhydrite/gypsum bedrock combined with later excavation disturbance and the 19th-century mythologising of the McGinnis story; many of the apparently early reports first appear in newspapers from the 1860s. Despite over 230 years of effort, no treasure has been verifiably recovered.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| The Money Pit | English / Oak Island, Nova Scotia, Canada |  |
+| Oak Island Mystery | English |  |
+| Oak Island Treasure | English |  |
 
-### Primary Name
-- **Oak Island Money Pit** — Named for red oak trees once on the island. "Money Pit" is a double entendre: where money is supposedly buried, and where money is endlessly poured.
+## Etymology
 
-### Alternative Names
-
-| Name | Region | Usage |
-|------|--------|-------|
-| Oak Island Mystery | Nova Scotia, Canada | Common reference |
-| Money Pit | Oak Island | Most popular name for alleged shaft |
-| Oak Island Treasure | General | Media usage |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: HISTORICAL_MYSTERY
-├── Type: Treasure Legend
-├── Subtype: Maritime/Colonial
-└── Variant: North American
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Roanoke Colony](/roanoke-colony) | Similar | Another enduring North American historical mystery |
-| [Bermuda Triangle](/bermuda-triangle) | Thematic | Maritime mystery with similar media attention |
-| Knights Templar myths | Claimed connection | Frequently invoked despite no historical evidence |
+- **Origin**: English; named for the red oak (Quercus rubra) trees historically growing on the island, which inspired the original 1795 name 'Oak Island'. The term 'Money Pit' was applied by 19th-century newspapers describing the central excavation.
+- **Meaning**: Oak Island = 'island of oaks'; Money Pit = the central excavation believed to conceal buried treasure.
+- **First use**: 'Oak Island' attested in late-18th-century Nova Scotia maps; 'Money Pit' popularised in mid-19th-century treasure-hunt journalism.
 
 ---
+## Related Phenomena
 
-## Location
-
-### Geographic Details
-
-| Attribute | Value |
-|-----------|-------|
-| **Island** | Oak Island |
-| **Body of Water** | Mahone Bay |
-| **County** | Lunenburg County |
-| **Province** | Nova Scotia |
-| **Country** | Canada |
-| **Coordinates** | 44.5142°N, 64.2889°W |
-| **Area** | 140 acres |
-| **Access** | Private property, restricted |
-
-### Notable Features
-
-- **Money Pit location** — Original alleged shaft location (precise location now uncertain)
-- **Smith's Cove** — Claimed location of "flood tunnel" entrance
-- **Swamp area** — Subject of recent TV show excavations
-- **Multiple excavation sites** — Scarred landscape from 200+ years of digging
-- **Modern infrastructure** — Buildings, equipment from television production
+- [Kensington Runestone](../kensington-runestone/) — _related_: Another long-running North American historical mystery with disputed authenticity
+- [Rennes-le-Château mystery](../rennes-le-chateau/) — _similar_: European treasure / hidden-knowledge legend with similarly elaborate folklore
+- [Lost Dutchman's Gold Mine](../lost-dutchman-mine/) — _similar_: Long-running North American treasure legend with multiple deaths
+- [Knights Templar treasure legends](../knights-templar/) — _related_: Frequently cited (without evidence) as the source of the alleged Oak Island cache
 
 ---
+## Physical Description
 
-## Alleged Features vs. Reality
+- **Morphology**: A 57-hectare (140-acre) glacial drumlin island, partly covered by spruce and oak, riddled with old shafts, caissons, and modern excavation infrastructure.
 
-### The Money Pit
+### Features
 
-**Claimed**:
-- Shaft discovered in 1795 by teenager Daniel McGinnis
-- Wooden platforms every 10 feet to depth of 90+ feet
-- Evidence of elaborate engineering
-- Inscribed stone at 90 feet
+| Feature | Description | Frequency |
+|---|---|---|
+| Money Pit shaft | Central excavation reportedly originally a circular depression beneath an oak tree, with claimed wooden platforms at roughly 3-metre intervals | always |
+| Smith's Cove box drains | A fan of stone-lined box drains found at Smith's Cove, claimed by treasure hunters to be a man-made flood-tunnel feeder; geologically disputed | common |
+| Coconut fibre layers | Coir matting found at multiple depths, anomalous for Nova Scotia and arguing for human importation according to treasure hunters | occasional |
+| Parchment fragment | 1897 small parchment with the letters 'vi' or 'wi' brought up from depth | rare |
+| Inscribed stone (lost) | Reportedly recovered around 27 metres (90 feet) in the 19th century with cipher characters; subsequently lost | rare |
 
-**Reality**:
-- No contemporary documentation; story first written in 1850s (50+ year gap)
-- Original location uncertain after 200+ years of digging
-- Wooden platforms only mentioned in later accounts, never verified
-- Inscribed stone disappeared; claimed translation disputed as fabrication
-- Pattern consistent with natural sinkhole in karst limestone
+## Behavior
 
-### Flood Tunnels
-
-**Claimed**:
-- Sophisticated system flooding pit with seawater when disturbed
-- Engineered from Smith's Cove and South Shore Cove
-- Evidence of deliberate construction to protect treasure
-
-**Reality**:
-- Geological surveys show natural fissures and channels in karst bedrock
-- Seawater infiltration is natural process at depth near ocean
-- No conclusive evidence of artificial construction
-- Similar features common throughout limestone regions
-
-### Inscribed Stone
-
-**Claimed**:
-- Stone with coded inscription found at 90 feet in 1803
-- Translation: "Forty feet below, two million pounds lie buried"
-- Key evidence for treasure theory
-
-**Reality**:
-- Original stone disappeared in early 1900s
-- No photographs or drawings from discovery period
-- Translation appeared decades later from unknown source
-- Most historians consider it fabricated for publicity
-- No academic cryptographers accept the translation
+- **Activity**: diurnal
+- **Disposition**: neutral
+- **Habitat**: coastal Atlantic Canada, Mahone Bay archipelago
 
 ---
+## Distribution
 
+A single island in Mahone Bay, Nova Scotia, Canada, accessed from the village of Western Shore by a causeway constructed in 1965.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| The Money Pit | Nova Scotia, Canada |  | 1795–present |
+| Smith's Cove | Nova Scotia, Canada |  | 19th century–present |
+| Borehole 10-X | Nova Scotia, Canada |  | 1971–present |
+
+---
 ## Historical Timeline
 
-### Origins (Uncertain)
+| Date | Event | Significance |
+|---|---|---|
+| 1795 | Daniel McGinnis, John Smith and Anthony Vaughan reportedly discover a depression and oak-log platforms on Oak Island; abandon the dig at about 9 m (30 ft) | Foundational episode of the legend |
+| 1804 | The Onslow Company excavates to about 27 m (90 ft) before the pit floods with seawater | Establishes the 'flooding' phenomenon central to the mystery |
+| 1849 | The Truro Company resumes excavation and reportedly recovers wooden platforms and metal in pieces from boring | First systematic mechanical excavation |
+| 1861 | First confirmed death on the island when a steam-engine boiler bursts during excavation | First of six recorded fatalities |
+| 1897-03-26 | Worker Maynard Kaiser dies in a fall during excavation; later that year a small piece of parchment with letters 'vi' or 'wi' is reportedly brought up from depth | Best-known 19th-century 'find' from the pit |
+| 1909 | Future U.S. President Franklin D. Roosevelt invests in the Old Gold Salvage and Wrecking Company excavation | High-profile early-20th-century interest |
+| 1965-08-17 | Robert Restall, his son Robert Jr., Karl Graeser and Cyril Hiltz die from hydrogen sulfide gas exposure in a shaft on Smith's Cove | Worst single incident on the island; four deaths in one day |
+| 1965 | Geologist Robert Dunfield bulldozes large areas of the eastern end of the island; argues for natural-sinkhole explanation | First formally geological account |
+| 1967 | Daniel Blankenship and David Tobias form the Triton Alliance and acquire excavation rights | Begins the principal modern excavation era |
+| 1971 | Triton Alliance sinks Borehole 10-X; underwater camera footage allegedly shows tools and a severed hand (interpretation disputed) | Most-discussed modern 'evidence' |
+| 2006 | Michigan brothers Rick and Marty Lagina acquire a 50% interest in Oak Island Tours Inc. | Sets up the modern television era |
+| 2014-01-05 | History Channel premieres 'The Curse of Oak Island', following the Lagina-led excavation | Long-running international media revival |
 
-**Claimed**: In 1795, teenager Daniel McGinnis discovered a circular depression and tackle block hanging from tree, suggesting buried treasure. With friends John Smith and Anthony Vaughan, he began digging.
+---
+## Notable Sightings
 
-**Historical Reality**: No contemporary documentation exists. The story first appears in written form in the 1850s-1860s, a gap of 50-60 years. This oral tradition period is highly problematic for credibility.
-
-### Key Events
-
-| Date | Event | Significance | Documentation | Credibility |
-|------|-------|--------------|---------------|-------------|
-| 1795 | Alleged discovery | Story begins (supposedly) | None contemporary | Very Low |
-| 1804 | Onslow Company | First organized dig | Later accounts only | Low |
-| 1849 | Truro Company | First documented excavation | Some records | Medium |
-| 1861 | Oak Island Association | Large excavation, 1 death | Newspaper accounts | High |
-| 1909 | Roosevelt expedition | Young FDR participates | FDR correspondence | High |
-| 1965-66 | Dunfield excavation | Heavy machinery, major site damage | Excellent records | High |
-| 1971 | Triton Alliance begins | Decades-long campaign | Extensive documentation | High |
-| 2006 | Lagina brothers invest | Purchase majority stake | Property records | High |
-| 2014 | TV series premieres | "The Curse of Oak Island" begins | Broadcast records | High |
-| 2014-present | Ongoing excavation | 200+ episodes, no treasure | Television broadcast | High |
-
-### Death Toll
-
-Six deaths associated with Oak Island excavations:
-1. 1861 — Worker killed by boiler explosion
-2. 1897 — Worker died in excavation
-3. 1965 — Worker death (circumstances vary by account)
-4-6. Various other deaths over 200 years
-
-Legend claims "seven must die before treasure is found" — a manufactured curse story to add mystique.
+### Discovery of the Money Pit ⭐
+> **Date**: 1795-08-01  
+> **Location**: Eastern end of Oak Island, Mahone Bay  
+> **Witnesses**: 3 (Daniel McGinnis, John Smith, Anthony Vaughan)  
+Sixteen-year-old Daniel McGinnis is said to have noticed a circular depression in the ground beneath a large oak with branches showing rope-burn marks, suggesting a block-and-tackle had once been rigged there. With Smith and Vaughan he excavated, reportedly finding flagstones at roughly 0.6 m and oak-log platforms at 3, 6 and 9 m, before abandoning the dig.
+**Credibility**: low — Foundational episode of the legend; broadly accepted in outline by treasure hunters and broadly questioned in detail by historians.
+**Sources**: Wikipedia, 'Oak Island mystery'; Liverpool Transcript (1862)
 
 ---
 
-## Treasure Claims (All Unsupported)
-
-### Pirate Treasure
-**Claim**: Captain Kidd or other pirates buried plunder  
-**Evidence**: None  
-**Credibility**: ⭐☆☆☆☆ (Very Low)  
-**Problems**: 
-- Captain Kidd's treasure locations documented in trial records
-- No pirates with sufficient treasure operated in this area
-- Pirate treasure hoards extremely rare historically
-- Oak Island not on known pirate routes
-
-### Knights Templar Treasure
-**Claim**: Templar treasure smuggled to New World after 1307  
-**Evidence**: None  
-**Credibility**: ⭐☆☆☆☆ (Very Low)  
-**Problems**:
-- No evidence Knights Templar reached North America
-- Requires accepting numerous fringe historical theories
-- Pre-Columbian contact claims unsupported
-- No Templar artifacts ever found on island
-
-### Shakespeare Manuscripts
-**Claim**: Original manuscripts of Shakespeare's works buried by Francis Bacon  
-**Evidence**: None  
-**Credibility**: ⭐☆☆☆☆ (Very Low)  
-**Problems**:
-- Based on discredited Bacon-Shakespeare authorship theory
-- No credible scholars support this scenario
-- Timing and logistics impossible
-- No evidence Francis Bacon visited North America
-
-### Marie Antoinette's Jewels
-**Claim**: French crown jewels smuggled to Nova Scotia during Revolution  
-**Evidence**: None  
-**Credibility**: ⭐☆☆☆☆ (Very Low)  
-**Problems**:
-- French crown jewels' fates well-documented
-- Timing makes scenario impossible
-- No connection between French royal family and Nova Scotia
-- Logistics of transport in 1790s unfeasible
-
-### British Military Payroll
-**Claim**: Garrison payroll hidden during American Revolution  
-**Evidence**: Circumstantial timing  
-**Credibility**: ⭐⭐☆☆☆ (Low)  
-**Problems**:
-- No missing payroll records exist
-- Halifax was secure British stronghold
-- Burying payroll makes no strategic sense
-- Still lacks any supporting evidence
+### First recorded death (boiler explosion)
+> **Date**: 1861-01-01  
+> **Location**: Money Pit excavation, Oak Island  
+> **Witnesses**: 0 (Oak Island Association workers)  
+During pumping operations by the Oak Island Association, a steam-engine boiler is said to have burst, scalding a worker who later died of his injuries. This is the first death on the island recorded in standard treasure-hunt histories.
+**Credibility**: medium
+**Sources**: Wikipedia, 'Oak Island mystery'
 
 ---
 
-## Evidence Analysis
-
-### Artifacts Found
-
-| Item | Significance (Claimed) | Reality |
-|------|----------------------|---------|
-| Coconut fiber | Proves exotic origin | Common ship packing material throughout maritime regions |
-| Metal fragments | Evidence of treasure | Contamination from 200+ years of excavation likely |
-| Wooden timbers | Ancient engineering | Carbon dating shows various ages; natural preservation common in anaerobic conditions |
-| Stone roadway | Man-made construction | Geological survey: natural rock formation, glacial deposit |
-| Cross pendant (2015) | Templar connection | Generic medieval-style jewelry, provenance uncertain, possibly modern |
-
-### Missing Evidence
-
-What has **never** been found after 200+ years:
-- ❌ Any treasure
-- ❌ Human remains predating 19th century
-- ❌ Period tools consistent with 16th-18th century engineering
-- ❌ Contemporary documentation from 1795
-- ❌ The original inscribed stone
-- ❌ Artifacts definitively linked to any claimed treasure source
+### Maynard Kaiser death and 'parchment' find ⭐
+> **Date**: 1897-03-26  
+> **Location**: Money Pit excavation, Oak Island  
+> **Witnesses**: 0 (Oak Island Treasure Company workers)  
+Worker Maynard Kaiser fell to his death during shaft work. The same year, a small fragment of what was described as parchment, bearing the letters 'vi' or 'wi', was recovered from a drill core taken from depth.
+**Credibility**: medium — Often cited as the most concrete physical 'find' of the 19th-century campaigns.
+**Sources**: Wikipedia, 'Oak Island mystery'
 
 ---
 
-## Scientific Explanations
-
-### Geological Consensus
-
-**Karst Topography**: Oak Island sits on limestone bedrock with naturally occurring underground voids and channels.
-
-**Natural Features Explain Everything**:
-
-| Alleged Feature | Geological Explanation |
-|-----------------|------------------------|
-| Money Pit depression | Natural sinkhole in karst limestone (very common) |
-| Wooden platforms | Later additions by treasure hunters, or natural tree debris in sinkhole |
-| Flood tunnels | Natural fissures and channels in soluble bedrock |
-| Seawater infiltration | Natural tidal infiltration due to island's geology and proximity to ocean |
-| Cavities at depth | Natural voids formed by dissolution of limestone |
-
-**Geological Survey of Canada** (1980s) concluded all features consistent with natural karst geology.
-
-**Woods Hole Oceanographic Institution** (1995) confirmed seawater infiltration is natural process.
-
-### Psychological Explanations
-
-**Confirmation Bias**: Each excavation interprets ambiguous findings as "clues" supporting continued digging.
-
-**Sunk Cost Fallacy**: Having invested time and money, treasure hunters psychologically unable to accept there's nothing there.
-
-**Pattern Recognition**: Human tendency to see intentional design in natural formations.
-
-**Legend Formation**: Story becomes more elaborate with each retelling, especially during 50-year oral tradition period before first documentation.
-
-### Historical Analysis
-
-**19th Century Context**: Oak Island story emerges during gold rush era when treasure hunt investment schemes were common.
-
-**Investor Attraction**: Elaborate story of flood tunnels and engineering serves to attract investors.
-
-**No Contemporary Records**: Absence of 1795 documentation highly suspicious; similar treasure hunt hoaxes documented in same period.
-
-**Embellishment Pattern**: Each generation adds new details and treasure theories, consistent with myth-making.
+### Restall family tragedy ⭐
+> **Date**: 1965-08-17  
+> **Location**: Smith's Cove shaft, Oak Island  
+> **Witnesses**: 0 (On-site colleagues)  
+Robert Restall Sr., his son Robert Jr., visiting geologist Karl Graeser and worker Cyril Hiltz died after being overcome by hydrogen sulfide gas in a shaft they had been excavating at Smith's Cove. The four deaths in a single day remain the worst incident in the recorded history of the island.
+**Credibility**: high — Cited as the origin of the 'Curse of Oak Island' tradition that seven men must die before the treasure is found.
+**Sources**: Wikipedia, 'Oak Island mystery'
 
 ---
 
-## Major Excavations
 
-| Company/Individual | Period | Result | Cost | Documentation |
-|-------------------|--------|--------|------|---------------|
-| Onslow Company | 1804-1805 | No treasure, pit flooded | Unknown | Poor (later accounts) |
-| Truro Company | 1849-1850 | No treasure, introduced drilling | Significant | Moderate |
-| Oak Island Association | 1861-1864 | No treasure, 1 death | Large | Good |
-| Multiple groups | 1866-1900 | No treasure | Substantial | Variable |
-| Frederick Blair | 1895-1950s | No treasure (decades of work) | Large | Good |
-| Robert Dunfield | 1965-1966 | No treasure, massive site damage | $130,000+ | Excellent |
-| Triton Alliance | 1971-2005 | No treasure | Millions | Excellent |
-| Lagina Brothers | 2006-present | No treasure (ongoing) | Millions (TV-funded) | Extensive |
+## Evidence
 
-**Total estimated spent**: **Over $50-100 million** across all excavations (inflation-adjusted)
+### Physical
 
-**Treasure recovered**: **$0**
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Coconut fibre (coir) layers |  | Coir matting reportedly found at multiple depths in the Money Pit and in Smith's Cove drains. | disputed |
+| 1897 parchment fragment | 1897 | Small piece of parchment-like material recovered from a drill core, bearing inked letters interpreted as 'vi' or 'wi'. | disputed |
+| Money Pit inscribed stone | c. 1804 | Stone slab said to bear cipher characters, recovered around 27 m (90 ft) and used as a hearthstone before disappearing in the early 20th century. | lost |
+### Photographic
 
----
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Borehole 10-X footage | 1971 | Underwater camera footage from the Triton Alliance's Borehole 10-X interpreted by some viewers as showing tools, chests and a severed human hand. | disputed |
+### Documentary
 
-## The Curse of Oak Island (TV Series)
-
-### Impact
-
-**Series**: History Channel, 2014-present  
-**Seasons**: 11+ (as of 2024)  
-**Episodes**: 200+  
-**Viewership**: Millions per episode
-
-**Economic Impact**:
-- ✅ Tourism boom for Mahone Bay region
-- ✅ Employment from TV production
-- ✅ Increased interest in Nova Scotia history
-
-**Criticism**:
-- ❌ Presents speculation as fact
-- ❌ Pseudoarchaeology promoting fringe theories
-- ❌ "Treasure porn" format: constant "clues" but no treasure
-- ❌ Gives legitimacy to unsupported claims
-- ❌ Each episode finds "evidence" justifying next episode
-
-**Archaeologist Criticism**: Professional archaeologists criticize the show for:
-- Cherry-picking data to support predetermined conclusions
-- Presenting unqualified "experts" promoting fringe theories
-- Ignoring geological and historical consensus
-- Damaging actual historical sites with invasive techniques
+| Name | Date | Description | Status |
+|---|---|---|---|
+| The Curse of Oak Island (2014–) | 2014 | Long-running History Channel reality series documenting the Lagina brothers' excavation campaigns and their reported finds. | unverified |
 
 ---
+## Theories & Explanations
 
-## Skeptical Consensus
+### Paranormal / Cryptozoological
 
-### Scientific Community
+**The Curse of Oak Island** _(Oak Island treasure-hunt folklore)_
 
-**Geologists**: Unanimous that features are natural karst formations  
-**Archaeologists**: No credible archaeologist supports treasure theories  
-**Historians**: Most view it as 19th-century hoax or myth  
-**Oceanographers**: Confirm seawater infiltration is natural
+Folk belief that seven men must die in the search before the treasure can be found; six are usually counted.
 
-### Key Points
+### Scientific
 
-1. **No contemporary documentation** — 50-year oral tradition gap fatal to credibility
-2. **Natural explanations sufficient** — No need for treasure hypothesis
-3. **200+ years, no treasure** — When do you stop digging?
-4. **Pattern of hoax** — Matches known 19th-century investment schemes
-5. **Increasing elaboration** — Story grows without new evidence
-6. **Confirmation bias** — Each ambiguous finding interpreted as "clue"
+**Pirate / Captain Kidd treasure** _(19th-century Nova Scotia treasure-hunt tradition)_
 
-### Academic Consensus
+The pit was constructed by 17th- or 18th-century pirates (most often Captain William Kidd) to conceal a substantial treasure cache, with the flood tunnels acting as a deliberate booby trap.
 
-> "Oak Island is a textbook case of how a legend can be perpetuated through confirmation bias, sunk cost fallacy, and the human desire to believe in buried treasure. The geological evidence is clear: these are natural features."  
-> — Dr. Gordon Fader, Marine Geologist
+**Templar / Bacon / Royal cache** _(20th-century treasure-hunt authors)_
 
-> "There is no credible evidence for any of the treasure theories. The lack of contemporary documentation from 1795 is extremely problematic."  
-> — Dr. Mark Finnan, Historian
+Various theories that the pit conceals the Knights Templar's lost treasure, Francis Bacon's manuscripts of the Shakespeare plays, French royal jewels evacuated during the Revolution, or Acadian valuables hidden during the 1755 Expulsion.
 
----
+### Skeptical
 
-## Cultural Impact
+**Natural sinkhole geology** _(Robert Dunfield (geologist), Joy A. Steele, Richard Joltes)_
 
-### Folklore
+Oak Island sits over anhydrite and gypsum bedrock prone to natural cavities and collapses. The Money Pit and surrounding features are best explained as natural sinkholes overprinted by 200 years of mining disturbance.
 
-- **"The Curse"**: Seven must die before treasure found (6 deaths recorded)
-- **Ghost stories**: Various hauntings reported on island
-- **Guardian spirits**: Folklore about entities protecting treasure
-- **Status**: Modern legend creation, part of mystique
+**19th-century legend formation** _(Richard Joltes, Joy A. Steele)_
 
-### Economic Impact
+The detailed 'engineered' features of the original 1795 discovery first appear in print decades later (1862 onward) and have been progressively elaborated. The legend, not the engineering, is the documented phenomenon.
 
-**Tourism**: Major attraction for Mahone Bay region  
-**Local Business**: Restaurants, shops, tours capitalize on fame  
-**Controversy**: Some locals resent commercialization and hype  
-**Jobs**: TV production provides regional employment
 
-### Media
+## Popular Culture
 
-**Books**: Dozens published, most promoting treasure theories  
-**TV Shows**: Multiple documentaries before 2014 series  
-**Internet**: Massive online communities debating theories  
-**Podcasts**: Numerous shows covering the legend
+**Literature**: The Oak Island Mystery: The Secret of the World's Greatest Treasure Hunt — Joy A. Steele (2015); The Big Dig: The Search for the Oak Island Treasure — D'Arcy O'Connor (1988); The Money Pit Mystery — Mildred Restall (1965)
+
+**Film / TV**: The Curse of Oak Island (History Channel, 2014–); The Curse of Oak Island: Drilling Down (companion series); Oak Island and the Search for Buried Treasure (various documentaries)
+
+**Other**: Oak Island Tours Inc. visitor experience; Oak Island Interpretive Centre; Captain Kidd in popular New England / Maritime Canada folklore
 
 ---
+## Research
 
-## Warnings & Advisories
+### Researchers
 
-### ⚠️ Financial Warning
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Robert Dunfield | Geologist (private) | First systematic geological assessment, arguing for a natural sinkhole origin | 1965–1966 |
+| Daniel Blankenship | Triton Alliance | Long-running modern excavation; sank Borehole 10-X | 1965–2019 |
+| David Tobias | Triton Alliance | Co-leader of the Triton Alliance excavation | 1967–2005 |
+| Rick Lagina | Oak Island Tours Inc. / The Curse of Oak Island | Co-leader of the modern television-era excavation | 2006–present |
+| Marty Lagina | Oak Island Tours Inc. / The Curse of Oak Island | Co-leader of the modern television-era excavation | 2006–present |
+| Richard Joltes | Independent historian / Critical Enquiry | Source-critical historical analysis arguing for legend formation | 1990s–present |
+| Joy A. Steele | Independent author | Argued in 2015 that Oak Island reflects a colonial naval-stores operation rather than a treasure pit | 2010s |
 
-Numerous investors have lost substantial money in Oak Island ventures over 200+ years. The island represents a cautionary tale about:
-- Sunk cost fallacy
-- Confirmation bias
-- Investment in unproven claims
-- Treasure hunt schemes
+### Organizations
 
-### ⚠️ Safety
+- [Oak Island Tours Inc.](https://www.oakislandtours.ca/) — Ownership entity and operator of current excavations
+- [The Friends of Oak Island Society](https://www.friendsofoakisland.com/) — Heritage and visitor outreach
 
-- Six deaths associated with excavation activities
-- Unstable ground from extensive digging
-- Dangerous excavation sites
-- Private property — trespassing prosecuted
-
-### ⚠️ Pseudoarchaeology Alert
-
-Oak Island is frequently used to promote fringe historical theories:
-- Pre-Columbian contact theories
-- Knights Templar in America
-- Shakespeare authorship controversies
-- Ancient advanced civilizations
-
-These theories lack credible evidence and are rejected by mainstream academics.
-
-### ⚠️ Critical Thinking
-
-Oak Island is an excellent case study in:
-- How legends form and persist
-- Confirmation bias in action
-- The psychology of treasure hunting
-- The importance of contemporary documentation
-- Why extraordinary claims require extraordinary evidence
+Active excavation continues each season under Oak Island Tours Inc., documented on The Curse of Oak Island. Independent historical scholarship continues to argue for natural-geology and legend-formation explanations.
 
 ---
+## Sources
 
-## Visitor Information
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-**Status**: Private property owned by Oak Island Tours Inc.  
-**Public Access**: Limited; tours available through official channels  
-**Visitor Center**: Interpretive center in nearby Western Shore  
-**Tourism**: Mahone Bay area offers Oak Island-themed attractions
 
-**Official Tours**: Contact Oak Island Tours Inc. for authorized visits  
-**Trespassing**: Strictly prohibited and prosecuted
+## How to Report a Sighting
 
----
-
-## For Researchers
-
-### Primary Sources
-
-⚠️ **Note**: Very few credible primary sources exist
-- Earliest written accounts: 1850s-1860s (50+ years after alleged discovery)
-- No contemporary 1795 documentation exists
-- Most early accounts second or third-hand
-
-### Recommended Reading (Critical Perspective)
-
-- Nickell, J. (2000). "The Secrets of Oak Island." *Skeptical Inquirer*, 24(2)
-- Finnan, M. (2002). *Oak Island Secrets*. Formac Publishing
-- Joltes, G. & Fader, G. (1993). Geological analyses (Atlantic Geoscience Society)
-- Academic articles in geology and history journals
-
-### Recommended Viewing (With Critical Eye)
-
-- "The Curse of Oak Island" (2014-present) — Entertainment, not documentary
-- Various skeptical analyses available online
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Conclusion
-
-Oak Island represents one of the most persistent treasure legends in North American history. While the story is romantic and the mystery compelling, the evidence overwhelmingly suggests:
-
-1. **No treasure exists or ever existed** on Oak Island
-2. **Geological features are natural**, not man-made
-3. **The legend emerged from 19th-century context** where treasure hunt schemes were common
-4. **200+ years and millions of dollars** have produced no treasure
-5. **The story grows more elaborate** without supporting evidence
-
-Oak Island is best understood as:
-- A natural geological formation (karst sinkhole)
-- A 19th-century investment scheme or folk legend
-- A modern entertainment phenomenon
-- A cautionary tale about confirmation bias and sunk cost fallacy
-- An example of how legends form and persist despite lack of evidence
-
-The "Money Pit" aptly describes both the alleged treasure location and the phenomenon itself: a pit into which money is endlessly poured with no return.
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const oakIsland = await wyrd.getPhenomenon('oak-island');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/oak-island/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography with 50+ sources.
-
-### Key References
-
-- Nickell, J. (2000). "The Secrets of Oak Island." *Skeptical Inquirer*
-- Finnan, M. (2002). *Oak Island Secrets*
-- O'Connor, D. (2004). *The Secret Treasure of Oak Island*
-- Geological Survey of Canada reports (1980s-1990s)
-- Woods Hole Oceanographic Institution studies
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-**"Two centuries of digging. Zero treasure. Infinite theories."**
-
-[Report Information](../../issues/new) • [Suggest Correction](../../issues/new) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
